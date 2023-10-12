@@ -1,9 +1,9 @@
-***Project Name: TENG Sensor-Based Person Identification***
+**Project Name: TENG Sensor-Based Person Identification**
 
 Description:
 This GitHub repository is dedicated to the documentation, code, and resources related to our innovative TENG (Tribo-Electric Nano Generator) sensor-based person identification project. The project harnesses the advanced capabilities of TENG sensors and machine learning to recognize individuals based on their unique walking patterns.
 
-Key Features:
+**Key Features:**
 - TENG Sensor Design and Operation Details
 - CNN Model for Person Identification
 - Dataset and Sample Collection
